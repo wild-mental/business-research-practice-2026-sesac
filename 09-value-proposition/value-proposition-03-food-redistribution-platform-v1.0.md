@@ -1,6 +1,6 @@
-# Value Proposition ③ — 구호재원 모금 기반 식량 무상 운송 서비스
+# Value Proposition ③ — Relief-Funded Free Food Transport Service
 
-> 📌 **기준본(canonical).** GPT 5.6 sol-high 판을 바탕으로, Opus 5 xhigh 판에서 살릴 서술을 되살리고 잔여 불일치를 정리한 병합본이다. 두 모델 산출물의 비교 기록은 [`…-opus5-xhigh.md`](./가치제안-03-식량-재분배-플랫폼-opus5-xhigh.md)와 이 파일의 git 이력에 남아 있다. · 2026-08-13
+*구호재원 모금 기반 식량 무상 운송 서비스* · **v1.0** · 2026-08-13
 
 > **입력** [챕터 04 TAM-SAM-SOM](../04-tam-sam-som/분석-03-식량-재분배-플랫폼.md) · [챕터 05 페르소나 스펙트럼](../05-persona-journey/분석-03-식량-재분배-플랫폼-페르소나-스펙트럼.md) · [고객 여정지도](../05-persona-journey/분석-03-식량-재분배-플랫폼-고객여정지도.md) · [챕터 06 AOS](../06-opportunity-score/분석-03-식량-재분배-플랫폼.md) · [DOS](../06-opportunity-score/분석-03-식량-재분배-플랫폼-DOS.md) · [혼합 매트릭스](../06-opportunity-score/분석-03-식량-재분배-플랫폼-혼합매트릭스.md) · [챕터 07 JTBD 결과](../07-jtbd/모의결과보고서-03-식량-재분배-플랫폼.md) · [챕터 08 경쟁 분석](../08-competitor-branding/경쟁사-가치선언-03-식량-재분배-플랫폼.md) · [가치목표 제안](../08-competitor-branding/가치목표-제안-03-식량-재분배-플랫폼.md)
 
